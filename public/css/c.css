@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter&display=swap');
+
+
+.tag {
+    display: inline-block;
+    background-color: #be542b; /* warna latar belakang */
+    color: #fff; /* warna teks */
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 10px; /* jarak antara teks dan batas tag */
+    border-radius: 20px; /* membuat tag berbentuk oval */
+    margin-right: 5px; /* jarak antara tag dengan elemen lain */
+  }
+
+  .tag2 {
+    display: inline-block;
+    background-color: #97bb17; /* warna latar belakang */
+    color: #fff; /* warna teks */
+    font-size: 12px;
+    font-weight: bold;
+    padding: 5px 10px; /* jarak antara teks dan batas tag */
+    border-radius: 20px; /* membuat tag berbentuk oval */
+    margin-right: 5px; /* jarak antara tag dengan elemen lain */
+  }
+
+html * {
+    font-family: 'Inter', sans-serif;
+}
+
+.title-navbar {
+    font-weight: 900;
+}
+
